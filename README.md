@@ -2,6 +2,9 @@
 
 This is the repository for the week 4 task in programming black.
 
+This website is published using GitHub pages, and can be found 
+[here](https://jackaed.github.io/Progblack-Week-4/).
+
 The website has been made using the catppuccin colour scheme, found
 [here](https://github.com/catppuccin/catppuccin).
 
